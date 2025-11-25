@@ -39,34 +39,6 @@ I enjoy working in **agile teams**, improving data quality and automating repeti
 
 ---
 
-## 💼 Experience (recent)
-
-**Data Analyst – LIKA Consulting, Paris (Jul 2025 – Sep 2025)**  
-- Improved **financial reporting (IARD/Life)** and data reliability.  
-- Automated **document workflows** (DocuSign) and weekly reporting.  
-
-**Data Analyst Intern – G2J IT, Paris (Jul 2024 – Aug 2024)**  
-- Cleaned and normalized an **automotive sector** database.  
-- Built dashboards to track competition (pricing, market share).  
-
----
-
-## 📚 Selected Projects
-
-- **Energy ELT Pipeline** – Ingestion, transformation, orchestration and data quality checks for energy datasets.  
-- **GenAI Quiz App (RAG)** – Full-stack app generating quizzes from technical documents.  
-- **Fairness & Imputation** – Study on how imputation methods affect model fairness.
-
----
-
-## 🎓 Education & Certifications
-
-- Big Data specialization – **USAL (Spain)** & **ESAIP (France)**  
-- Preparatory Classes MPSI – SUP’Management, Libreville  
-- **dbt Fundamentals** · **Databricks Lakehouse Fundamentals**
-
----
-
 ## 🌐 Languages
 
 `French (native)` · `English (B2)` · `Spanish (A2)`
