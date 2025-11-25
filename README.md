@@ -10,7 +10,7 @@ Actively looking for a **5–6 month Data Engineer internship starting March 202
 [![Portfolio](https://img.shields.io/badge/Portfolio-nguette--fane--gad.vercel.app-000?style=for-the-badge)](https://nguette-fane-gad.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguette%20Fane%20Gad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguette-fane-gad)
 [![GitHub](https://img.shields.io/badge/GitHub-CaptainA10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaptainA10)
-[![Email](https://img.shields.io/badge/Email-enguettefanegad%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enguettefanegad@gmail.com)
+
 
 ---
 
