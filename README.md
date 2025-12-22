@@ -1,4 +1,4 @@
-# Gad Nguette Fane  
+# NGUETTE FANE Gad 
 🎓 Data Engineering, Artificial & Business Intelligence — Angers, France  
 🎯 Looking for a **5–6 month internship starting March 2026**
 
