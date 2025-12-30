@@ -20,8 +20,11 @@ Data Engineering and Business Intelligence student focused on designing reliable
 
 ## Dashboard Overview
 
-![Skills Dashboard](https://github.com/CaptainA10/CaptainA10/raw/main/assets/dashboard-overview.svg)
----
+## Dashboard Overview
+
+[![View Interactive Dashboard](https://img.shields.io/badge/View%20Dashboard-Interactive%20Stats-667eea?style=for-the-badge&logo=github-pages&logoColor=white)](https://captaina10.github.io/dashboard.html)
+
+*Real-time GitHub stats • Skills • Projects*---
 
 ## Certifications
 
