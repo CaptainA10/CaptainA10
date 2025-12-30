@@ -73,14 +73,6 @@ End-to-end Modern Data Stack with Python ingestion, BigQuery warehouse, dbt tran
 
 **Stack**: Python | BigQuery | dbt Core | Looker Studio
 
-### AI Quiz Generator - Bilingual Edition
-[![Live Demo](https://img.shields.io/badge/Live-App-success?style=for-the-badge)](https://captaina10.github.io/quiz-bilingue-app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/CaptainA10/quiz-bilingue-app)
-
-AI-powered quiz generator creating educational quizzes from documents in multiple languages using Groq's LLaMA 3.3 70B model.
-
-**Stack**: React | Node.js | Express | Groq API | GitHub Pages
-
 ### Streaming & Batch Monitoring Platform
 [![Live Demo](https://img.shields.io/badge/Live-Dashboard-success?style=for-the-badge)](https://yr9pfbp2oxzezb5.fr.qlikcloud.com/sense/app/05d3b740-87d3-4ba7-9215-2f8479c83132)
 
@@ -88,13 +80,13 @@ Lambda Architecture implementation processing massive event streams with real-ti
 
 **Stack**: Kafka | PySpark | MongoDB | BigQuery | Airflow | dbt | Streamlit | QlikSense
 
-### Climate & Disasters Data Analysis
-[![Live Demo](https://img.shields.io/badge/Live-Map-success?style=for-the-badge)](https://CaptainA10.github.io/Climate-Disasters-Data-Analysis/outputs/maps/carte_catastrophes_pays.html)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/CaptainA10/Climate-Disasters-Data-Analysis)
+### AI Quiz Generator - Bilingual Edition
+[![Live Demo](https://img.shields.io/badge/Live-App-success?style=for-the-badge)](https://captaina10.github.io/quiz-bilingue-app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/CaptainA10/quiz-bilingue-app)
 
-Statistical analysis exploring relationships between climate change indicators and natural disasters frequency over 1900-2021.
+AI-powered quiz generator creating educational quizzes from documents in multiple languages using Groq's LLaMA 3.3 70B model.
 
-**Stack**: Python | Pandas | Jupyter | Plotly | Folium
+**Stack**: React | Node.js | Express | Groq API | GitHub Pages
 
 ## Certifications
 
