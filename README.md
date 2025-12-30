@@ -21,8 +21,7 @@ Data Engineering and Business Intelligence student focused on designing reliable
 
 ## Dashboard Overview
 
-![Skills Dashboard](https://raw.githubusercontent.com/CaptainA10/CaptainA10/main/assets/dashboard-overview.svg)
-
+![Skills Dashboard](https://github.com/CaptainA10/CaptainA10/raw/main/assets/dashboard-overview.svg)
 ---
 
 ## Certifications
