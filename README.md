@@ -19,142 +19,87 @@ Data Engineering and Business Intelligence student focused on designing reliable
 
 ---
 
-## Dashboard Overview
+## Skills Radar
 
-<div align="center">
+![Skills Radar Chart](https://raw.githubusercontent.com/CaptainA10/CaptainA10/main/assets/radar-chart.svg)
 
-### Skills Distribution
+### Expertise Distribution
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│          DATA ENGINEERING    BI & DASHBOARDS           │
-│                 ╱ ╲                    ╱ ╲              │
-│               ╱     ╲                ╱     ╲            │
-│             ╱   90%   ╲            ╱   85%   ╲          │
-│           ╱─────────────╲        ╱─────────────╲        │
-│          │               │      │               │       │
-│          │     SPARK     │      │    POWER BI   │       │
-│          │      80%      │      │     EXCEL     │       │
-│          │               │      │               │       │
-│           ╲─────────────╱        ╲─────────────╱        │
-│             ╲   88%   ╱            ╲   75%   ╱          │
-│               ╲     ╱                ╲     ╱            │
-│                 ╲ ╱                    ╲ ╱              │
-│              DBT PIPELINES          DEVELOPMENT         │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-### Core Metrics
-
-<div align="center">
-
-| Featured Projects | Certifications | Tech Skills | Languages |
-|:---:|:---:|:---:|:---:|
-| 🚀 **3** | 🎓 **3** | 💻 **15+** | 🌍 **3** |
-
-</div>
+| Domain | Level | Key Skills |
+|--------|-------|-----------|
+| **Data Engineering** | 90% | SQL, Python, dbt, BigQuery, Airflow |
+| **BI & Dashboards** | 85% | Power BI, Qlik Sense, Looker Studio |
+| **Development** | 75% | React, Node.js, Express, REST API |
+| **Cloud & DevOps** | 80% | Docker, Kafka, Spark, GitHub Actions |
 
 ---
 
-## Core Competencies
+## Core Metrics
 
-### Data Engineering & Pipelines
-
-| Skill | Proficiency | Progress |
-|-------|:-----------:|----------|
-| **SQL & Python** | 90% | ████████████████████░░░░░░░░ |
-| **dbt & Transformations** | 88% | ███████████████████░░░░░░░░░░ |
-| **BigQuery & Cloud** | 85% | ██████████████████░░░░░░░░░░░ |
-| **Apache Spark & Kafka** | 80% | █████████████████░░░░░░░░░░░░ |
-
-### Business Intelligence & Development
-
-| Skill | Proficiency | Progress |
-|-------|:-----------:|----------|
-| **Power BI & Dashboards** | 85% | ██████████████████░░░░░░░░░░░ |
-| **React & Node.js** | 75% | ███████████████░░░░░░░░░░░░░░ |
+| Featured Projects | Certifications | Tech Skills | Languages |
+|:---:|:---:|:---:|:---:|
+| **3** | **3** | **15+** | **3** |
 
 ---
 
 ## Tech Stack
 
-### Data Engineering
-
+**Data Engineering**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF5733?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Databases
-
+**Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### BI & Business Solutions
-
+**BI & Business Solutions**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?style=for-the-badge&logo=qlik&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)
 
-### Development
-
+**Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-4A90E2?style=for-the-badge)
-
-### Methods & Practices
-
-![Agile Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-008000?style=for-the-badge)
-![Documentation](https://img.shields.io/badge/Technical_Documentation-555555?style=for-the-badge)
 
 ---
 
 ## Featured Projects
 
 ### Green Energy Data Pipeline
-
 [![Live Demo](https://img.shields.io/badge/Live-Dashboard-success?style=for-the-badge)](https://lookerstudio.google.com/s/u-64-Hc96RQ)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/CaptainA10/Green_Data_Pipeline)
 
-End-to-end Modern Data Stack with Python ingestion, BigQuery warehouse, dbt transformations, and Looker Studio dashboards for renewable energy analysis.
+End-to-end Modern Data Stack with Python ingestion, BigQuery warehouse, dbt transformations, and Looker Studio dashboards.
 
-**Stack**: Python | BigQuery | dbt Core | Looker Studio
+**Stack**: Python | BigQuery | dbt | Looker Studio
 
 ---
 
 ### Streaming & Batch Monitoring Platform
-
 [![Live Demo](https://img.shields.io/badge/Live-Dashboard-success?style=for-the-badge)](https://yr9pfbp2oxzezb5.fr.qlikcloud.com/sense/app/05d3b740-87d3-4ba7-9215-2f8479c83132)
 
 Lambda Architecture implementation processing massive event streams with real-time KPIs and historical analysis.
 
-**Stack**: Kafka | PySpark | MongoDB | BigQuery | Airflow | dbt | Streamlit | QlikSense
+**Stack**: Kafka | PySpark | BigQuery | Airflow | dbt | QlikSense
 
 ---
 
 ### AI Quiz Generator - Bilingual Edition
-
 [![Live Demo](https://img.shields.io/badge/Live-App-success?style=for-the-badge)](https://captaina10.github.io/quiz-bilingue-app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/CaptainA10/quiz-bilingue-app)
 
-AI-powered quiz generator creating educational quizzes from documents in multiple languages using Groq's LLaMA 3.3 70B model.
+AI-powered quiz generator with Groq's LLaMA 3.3 70B model.
 
-**Stack**: React | Node.js | Express | Groq API | GitHub Pages
+**Stack**: React | Node.js | Express | Groq API
 
 ---
 
@@ -174,18 +119,16 @@ AI-powered quiz generator creating educational quizzes from documents in multipl
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainA10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainA10&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainA10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainA10&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 <div align="center">
 
 ### **[Explore Interactive Portfolio with Live Stats](https://captaina10.github.io)**
-
-*Full Dashboard • Real-time Stats • Projects • Skills • Certifications*
 
 </div>
