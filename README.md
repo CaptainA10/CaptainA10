@@ -19,144 +19,108 @@ Data Engineering and Business Intelligence student focused on designing reliable
 
 ---
 
-## Overview
+## Dashboard Overview
 
-![Overview Stats](https://img.shields.io/static/v1?label=Featured%20Projects&message=3&color=667eea&style=for-the-badge&logoColor=white)
-![Certifications](https://img.shields.io/static/v1?label=Certifications&message=3&color=f5576c&style=for-the-badge&logoColor=white)
-![Tech Skills](https://img.shields.io/static/v1?label=Tech%20Skills&message=15+&color=4facfe&style=for-the-badge&logoColor=white)
-![Languages](https://img.shields.io/static/v1?label=Languages&message=3&color=43e97b&style=for-the-badge&logoColor=white)
+<div align="center">
 
-### Core Competencies
-
-<table>
-<tr>
-<td width="30%">
-
-**Data Engineering & Pipelines**
-
-</td>
-<td width="70%">
-
-</td>
-</tr>
-<tr>
-<td>SQL & Python</td>
-<td>
+### Skills Distribution
 
 ```
-████████████████████████░░░░ 90%
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│          DATA ENGINEERING    BI & DASHBOARDS           │
+│                 ╱ ╲                    ╱ ╲              │
+│               ╱     ╲                ╱     ╲            │
+│             ╱   90%   ╲            ╱   85%   ╲          │
+│           ╱─────────────╲        ╱─────────────╲        │
+│          │               │      │               │       │
+│          │     SPARK     │      │    POWER BI   │       │
+│          │      80%      │      │     EXCEL     │       │
+│          │               │      │               │       │
+│           ╲─────────────╱        ╲─────────────╱        │
+│             ╲   88%   ╱            ╲   75%   ╱          │
+│               ╲     ╱                ╲     ╱            │
+│                 ╲ ╱                    ╲ ╱              │
+│              DBT PIPELINES          DEVELOPMENT         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
-</td>
-</tr>
-<tr>
-<td>dbt & Transformations</td>
-<td>
+</div>
 
-```
-███████████████████░░░░░░░░░░ 88%
-```
+### Core Metrics
 
-</td>
-</tr>
-<tr>
-<td>BigQuery & Cloud</td>
-<td>
+<div align="center">
 
-```
-██████████████████░░░░░░░░░░░ 85%
-```
+| Featured Projects | Certifications | Tech Skills | Languages |
+|:---:|:---:|:---:|:---:|
+| 🚀 **3** | 🎓 **3** | 💻 **15+** | 🌍 **3** |
 
-</td>
-</tr>
-<tr>
-<td>Apache Spark & Kafka</td>
-<td>
-
-```
-█████████████████░░░░░░░░░░░░ 80%
-```
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="30%">
-
-**Business Intelligence**
-
-</td>
-<td width="70%">
-
-</td>
-</tr>
-<tr>
-<td>Power BI & Dashboards</td>
-<td>
-
-```
-██████████████████░░░░░░░░░░░ 85%
-```
-
-</td>
-</tr>
-<tr>
-<td>React & Node.js</td>
-<td>
-
-```
-███████████████░░░░░░░░░░░░░░ 75%
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## Skills
+## Core Competencies
+
+### Data Engineering & Pipelines
+
+| Skill | Proficiency | Progress |
+|-------|:-----------:|----------|
+| **SQL & Python** | 90% | ████████████████████░░░░░░░░ |
+| **dbt & Transformations** | 88% | ███████████████████░░░░░░░░░░ |
+| **BigQuery & Cloud** | 85% | ██████████████████░░░░░░░░░░░ |
+| **Apache Spark & Kafka** | 80% | █████████████████░░░░░░░░░░░░ |
+
+### Business Intelligence & Development
+
+| Skill | Proficiency | Progress |
+|-------|:-----------:|----------|
+| **Power BI & Dashboards** | 85% | ██████████████████░░░░░░░░░░░ |
+| **React & Node.js** | 75% | ███████████████░░░░░░░░░░░░░░ |
+
+---
+
+## Tech Stack
 
 ### Data Engineering
 
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-<a href="#"><img alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"></a>
-<a href="#"><img alt="dbt" src="https://img.shields.io/badge/dbt-FF5733?style=for-the-badge&logo=dbt&logoColor=white"></a>
-<a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white"></a>
-<a href="#"><img alt="Apache Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"></a>
-<a href="#"><img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF5733?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Databases
 
-<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### BI & Business Solutions
 
-<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black"></a>
-<a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
-<a href="#"><img alt="Qlik Sense" src="https://img.shields.io/badge/Qlik_Sense-009848?style=for-the-badge&logo=qlik&logoColor=white"></a>
-<a href="#"><img alt="Power Apps" src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white"></a>
-<a href="#"><img alt="Power Automate" src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white"></a>
-<a href="#"><img alt="Looker Studio" src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?style=for-the-badge&logo=qlik&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### Development
 
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
-<a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge"></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
-<a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST_API-4A90E2?style=for-the-badge"></a>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-4A90E2?style=for-the-badge)
 
 ### Methods & Practices
 
-<a href="#"><img alt="Agile Scrum" src="https://img.shields.io/badge/Agile%20%2F%20Scrum-008000?style=for-the-badge"></a>
-<a href="#"><img alt="Documentation" src="https://img.shields.io/badge/Technical_Documentation-555555?style=for-the-badge"></a>
+![Agile Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-008000?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Technical_Documentation-555555?style=for-the-badge)
 
 ---
 
@@ -210,10 +174,18 @@ AI-powered quiz generator creating educational quizzes from documents in multipl
 
 ---
 
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainA10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainA10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+---
+
 <div align="center">
 
 ### **[Explore Interactive Portfolio with Live Stats](https://captaina10.github.io)**
 
-*Dashboard avec stats en temps réel • Compétences • Projets • Certifications*
+*Full Dashboard • Real-time Stats • Projects • Skills • Certifications*
 
 </div>
