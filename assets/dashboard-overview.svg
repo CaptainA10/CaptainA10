@@ -1,52 +1,108 @@
-<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1000 1100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#667eea"/>
-      <stop offset="100%" style="stop-color:#764ba2"/>
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f5576c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#43e97b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#38f9d7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f5f7fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e8ecf1;stop-opacity:1" />
     </linearGradient>
   </defs>
-  
-  <rect width="500" height="500" fill="#f5f7fa"/>
-  
-  <!-- Grid circles -->
-  <circle cx="250" cy="250" r="50" fill="none" stroke="#e0e0e0" stroke-width="1"/>
-  <circle cx="250" cy="250" r="100" fill="none" stroke="#e0e0e0" stroke-width="1"/>
-  <circle cx="250" cy="250" r="150" fill="none" stroke="#e0e0e0" stroke-width="1"/>
-  <circle cx="250" cy="250" r="200" fill="none" stroke="#e0e0e0" stroke-width="2"/>
-  
-  <!-- Axes -->
-  <line x1="250" y1="50" x2="250" y2="450" stroke="#d0d0d0" stroke-width="1"/>
-  <line x1="450" y1="250" x2="50" y2="250" stroke="#d0d0d0" stroke-width="1"/>
-  <line x1="339" y1="76" x2="161" y2="424" stroke="#d0d0d0" stroke-width="1"/>
-  <line x1="424" y1="339" x2="76" y2="161" stroke="#d0d0d0" stroke-width="1"/>
-  <line x1="161" y1="76" x2="339" y2="424" stroke="#d0d0d0" stroke-width="1"/>
-  
-  <!-- Data polygon 90%, 85%, 80%, 80%, 75% -->
-  <polygon points="250,50 405,136 357,379 143,379 95,136" fill="url(#grad1)" stroke="#667eea" stroke-width="2" opacity="0.8"/>
-  
-  <!-- Points -->
-  <circle cx="250" cy="50" r="5" fill="#667eea"/>
-  <circle cx="405" cy="136" r="5" fill="#667eea"/>
-  <circle cx="357" cy="379" r="5" fill="#667eea"/>
-  <circle cx="143" cy="379" r="5" fill="#667eea"/>
-  <circle cx="95" cy="136" r="5" fill="#667eea"/>
-  
-  <!-- Labels -->
-  <text x="250" y="30" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Data Eng</text>
-  <text x="250" y="42" font-size="10" text-anchor="middle" fill="#667eea">90%</text>
-  
-  <text x="430" y="140" font-size="12" font-weight="bold" fill="#1a1a1a">BI</text>
-  <text x="430" y="152" font-size="10" fill="#667eea">85%</text>
-  
-  <text x="380" y="400" font-size="12" font-weight="bold" fill="#1a1a1a">Cloud</text>
-  <text x="380" y="412" font-size="10" fill="#667eea">80%</text>
-  
-  <text x="100" y="400" font-size="12" font-weight="bold" fill="#1a1a1a">Data Science</text>
-  <text x="100" y="412" font-size="10" fill="#667eea">80%</text>
-  
-  <text x="50" y="140" font-size="12" font-weight="bold" fill="#1a1a1a">Dev</text>
-  <text x="50" y="152" font-size="10" fill="#667eea">75%</text>
-  
-  <!-- Center -->
-  <text x="250" y="260" font-size="14" font-weight="bold" text-anchor="middle" fill="#1a1a1a">SKILLS</text>
+
+  <rect width="1000" height="1100" fill="url(#bgGrad)"/>
+
+  <!-- Title -->
+  <text x="500" y="50" font-size="32" font-weight="700" text-anchor="middle" fill="#1a1a1a">
+    Skills Overview
+  </text>
+
+  <!-- Stats Cards -->
+  <rect x="50" y="80" width="200" height="140" rx="12" fill="white" stroke="#667eea" stroke-width="2"/>
+  <text x="150" y="155" font-size="48" font-weight="700" text-anchor="middle" fill="url(#grad1)">5+</text>
+  <text x="150" y="190" font-size="14" font-weight="600" text-anchor="middle" fill="#666">GitHub Repos</text>
+
+  <rect x="275" y="80" width="200" height="140" rx="12" fill="white" stroke="#f5576c" stroke-width="2"/>
+  <text x="375" y="155" font-size="48" font-weight="700" text-anchor="middle" fill="url(#grad2)">3</text>
+  <text x="375" y="190" font-size="14" font-weight="600" text-anchor="middle" fill="#666">Certifications</text>
+
+  <rect x="500" y="80" width="200" height="140" rx="12" fill="white" stroke="#4facfe" stroke-width="2"/>
+  <text x="600" y="155" font-size="48" font-weight="700" text-anchor="middle" fill="url(#grad3)">15+</text>
+  <text x="600" y="190" font-size="14" font-weight="600" text-anchor="middle" fill="#666">Tech Skills</text>
+
+  <rect x="725" y="80" width="225" height="140" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+  <text x="837" y="155" font-size="48" font-weight="700" text-anchor="middle" fill="url(#grad4)">3</text>
+  <text x="837" y="190" font-size="14" font-weight="600" text-anchor="middle" fill="#666">Languages</text>
+
+  <!-- Competencies Title -->
+  <text x="50" y="280" font-size="18" font-weight="700" fill="#1a1a1a">Core Competencies</text>
+
+  <!-- Data Engineering -->
+  <text x="50" y="320" font-size="12" font-weight="700" fill="#1a1a1a">DATA ENGINEERING</text>
+
+  <text x="50" y="350" font-size="13" font-weight="500" fill="#555">SQL and Python</text>
+  <rect x="50" y="358" width="900" height="7" rx="3" fill="#e8e8e8"/>
+  <rect x="50" y="358" width="810" height="7" rx="3" fill="url(#grad1)"/>
+  <text x="960" y="366" font-size="11" font-weight="600" fill="#667eea">90%</text>
+
+  <text x="50" y="395" font-size="13" font-weight="500" fill="#555">dbt and Transformations</text>
+  <rect x="50" y="403" width="900" height="7" rx="3" fill="#e8e8e8"/>
+  <rect x="50" y="403" width="792" height="7" rx="3" fill="url(#grad1)"/>
+  <text x="960" y="411" font-size="11" font-weight="600" fill="#667eea">88%</text>
+
+  <text x="50" y="440" font-size="13" font-weight="500" fill="#555">BigQuery and Cloud</text>
+  <rect x="50" y="448" width="900" height="7" rx="3" fill="#e8e8e8"/>
+  <rect x="50" y="448" width="765" height="7" rx="3" fill="url(#grad1)"/>
+  <text x="960" y="456" font-size="11" font-weight="600" fill="#667eea">85%</text>
+
+  <text x="50" y="485" font-size="13" font-weight="500" fill="#555">Apache Spark and Kafka</text>
+  <rect x="50" y="493" width="900" height="7" rx="3" fill="#e8e8e8"/>
+  <rect x="50" y="493" width="720" height="7" rx="3" fill="url(#grad1)"/>
+  <text x="960" y="501" font-size="11" font-weight="600" fill="#667eea">80%</text>
+
+  <!-- Business Intelligence -->
+  <text x="50" y="550" font-size="12" font-weight="700" fill="#1a1a1a">BUSINESS INTELLIGENCE</text>
+
+  <text x="50" y="580" font-size="13" font-weight="500" fill="#555">Power BI and Dashboards</text>
+  <rect x="50" y="588" width="900" height="7" rx="3" fill="#e8e8e8"/>
+  <rect x="50" y="588" width="765" height="7" rx="3" fill="url(#grad2)"/>
+  <text x="960" y="596" font-size="11" font-weight="600" fill="#f5576c">85%</text>
+
+  <text x="50" y="625" font-size="13" font-weight="500" fill="#555">React and Node.js</text>
+  <rect x="50" y="633" width="900" height="7" rx="3" fill="#e8e8e8"/>
+  <rect x="50" y="633" width="675" height="7" rx="3" fill="url(#grad2)"/>
+  <text x="960" y="641" font-size="11" font-weight="600" fill="#f5576c">75%</text>
+
+  <!-- Featured Projects -->
+  <text x="50" y="700" font-size="18" font-weight="700" fill="#1a1a1a">Featured Projects</text>
+
+  <rect x="50" y="720" width="900" height="85" rx="10" fill="white" stroke="#667eea" stroke-width="1.5"/>
+  <text x="70" y="745" font-size="13" font-weight="700" fill="#1a1a1a">Green Energy Data Pipeline</text>
+  <text x="70" y="765" font-size="11" fill="#666">Modern Data Stack - Python, BigQuery, dbt, Looker Studio</text>
+  <text x="70" y="785" font-size="10" font-weight="600" fill="#667eea">View Demo</text>
+
+  <rect x="50" y="825" width="900" height="85" rx="10" fill="white" stroke="#f5576c" stroke-width="1.5"/>
+  <text x="70" y="850" font-size="13" font-weight="700" fill="#1a1a1a">Streaming and Batch Monitoring</text>
+  <text x="70" y="870" font-size="11" fill="#666">Lambda Architecture - Kafka, PySpark, BigQuery, Airflow, dbt, QlikSense</text>
+  <text x="70" y="890" font-size="10" font-weight="600" fill="#f5576c">View Demo</text>
+
+  <rect x="50" y="930" width="900" height="85" rx="10" fill="white" stroke="#4facfe" stroke-width="1.5"/>
+  <text x="70" y="955" font-size="13" font-weight="700" fill="#1a1a1a">AI Quiz Generator - Bilingual</text>
+  <text x="70" y="975" font-size="11" fill="#666">Groq LLaMA API - React, Node.js, Express, GitHub Pages</text>
+  <text x="70" y="995" font-size="10" font-weight="600" fill="#4facfe">View App</text>
+
+  <!-- Footer -->
+  <text x="500" y="1070" font-size="11" text-anchor="middle" fill="#999">Data Engineering - BI - Cloud - Real-time GitHub Stats</text>
 </svg>
