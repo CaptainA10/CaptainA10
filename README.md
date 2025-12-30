@@ -7,7 +7,6 @@ Angers, France
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nguette-fane-gad.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguette-fane-gad)
-[![Interactive Portfolio](https://img.shields.io/badge/Portfolio%20Site-Interactive-667eea?style=for-the-badge&logo=github-pages&logoColor=white)](https://captaina10.github.io)
 
 ---
 
