@@ -17,14 +17,9 @@ Data Engineering and Business Intelligence student focused on designing reliable
 
 ## GitHub Activity Dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainA10&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainA10&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainA10&theme=default&hide_border=true" alt="GitHub Streak" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainA10&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/CaptainA10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainA10&layout=compact&theme=default&hide_border=true&langs_count=8)](https://github.com/CaptainA10)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaptainA10&theme=default&hide_border=true)](https://github.com/CaptainA10)
 
 ## Skills
 
