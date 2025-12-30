@@ -21,9 +21,9 @@ Data Engineering and Business Intelligence student focused on designing reliable
 
 ## Dashboard Overview
 
-[![View Interactive Dashboard](https://img.shields.io/badge/View%20Dashboard-Interactive%20Stats-667eea?style=for-the-badge&logo=github-pages&logoColor=white)](https://captaina10.github.io/dashboard.html)
+Click below to explore your interactive skills dashboard with real-time GitHub stats:
 
-*Real-time GitHub stats • Skills • Projects*
+[![View Interactive Dashboard](https://img.shields.io/badge/Interactive%20Dashboard-Live%20Stats-667eea?style=for-the-badge&logo=github-pages&logoColor=white)](https://captaina10.github.io/dashboard.html)
 
 ---
 
