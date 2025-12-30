@@ -1,10 +1,13 @@
-# NGUETTE FANE Gad 
-🎓 Data Engineering, Artificial & Business Intelligence — Angers, France  
-🎯 Looking for a **5–6 month internship starting March 2026**
+# NGUETTE FANE Gad  
+
+**Data Engineering | Artificial & Business Intelligence**  
+Angers, France  
+
+Looking for a **5–6 month internship starting March 2026**
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nguette-fane-gad.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguette-fane-gad)
@@ -12,73 +15,89 @@
 
 ---
 
-## 🧠 About Me
-Data Engineering & BI student passionate about:
-- ELT pipelines  
-- Data modeling & data quality  
-- Business Intelligence dashboards  
-- Automation & cloud tools  
+## Profile
+
+Data Engineering and Business Intelligence student focused on designing reliable, scalable, and analytics-ready data platforms.  
+Strong interest in data pipelines, cloud data warehouses, and business-driven analytics solutions.
+
+Key areas of interest:
+- ELT / ETL pipelines and orchestration  
+- Data modeling, transformation, and data quality  
+- Business Intelligence and reporting  
+- Automation, CI/CD, and cloud-native tools  
 
 ---
 
-## 🛠 Tech Stack
+## Skills
 
-### **Data Engineering & BI**  
-[![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![dbt](https://img.shields.io/badge/dbt-FF5733?style=for-the-badge&logo=dbt&logoColor=white)]()
-[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google&logoColor=white)]()
-[![Snowflake](https://img.shields.io/badge/Snowflake-00BFFF?style=for-the-badge&logo=snowflake&logoColor=white)]()
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=white)]()
-[![Power Automate](https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)]()
-[![Power Apps](https://img.shields.io/badge/Power_Apps-68217A?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)]()
-
-### **Development / Data Science**  
+### Data Engineering
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)]()
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-[![REST API](https://img.shields.io/badge/REST_API-4A90E2?style=for-the-badge)]()
+[![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)]()
+[![dbt](https://img.shields.io/badge/dbt-FF5733?style=for-the-badge&logo=dbt&logoColor=white)]()
+[![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)]()
+[![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)]()
+[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
 ---
 
-## 📊 GitHub Dashboards
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaptainA10&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainA10&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=CaptainA10&theme=tokyonight&hide_border=true)
+### Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
 ---
 
-## 🚀 Projects
-
-[![ELT Pipeline](https://img.shields.io/badge/ELT_Pipeline-007ACC?style=for-the-badge)]()  
-SQL transformations · dbt models · BigQuery · Power BI  
-
-[![BI Dashboard](https://img.shields.io/badge/BI_Dashboard-F2C80F?style=for-the-badge)]()  
-KPIs · DAX · interactive visual analysis  
-
-[![GitHub Analytics](https://img.shields.io/badge/GitHub_Analytics-181717?style=for-the-badge&logo=github&logoColor=white)]()  
-GitHub API → Data Warehouse → Power BI
+### BI & Business Solutions
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black)]()
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+[![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?style=for-the-badge&logo=qlik&logoColor=white)]()
+[![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)]()
+[![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)]()
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)]()
 
 ---
 
-## 🎓 Certifications
-
-[![Databricks](https://img.shields.io/badge/Databricks-F37020?style=for-the-badge)]()  
-[![dbt](https://img.shields.io/badge/dbt-FF5733?style=for-the-badge&logo=dbt&logoColor=white)]()  
-[![Agile](https://img.shields.io/badge/Agile_Scrum-008000?style=for-the-badge)]()
+### Development
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)]()
+[![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+[![REST API](https://img.shields.io/badge/REST_API-4A90E2?style=for-the-badge)]()
 
 ---
 
-## 🌍 Languages
+### Methods & Practices
+[![Agile Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-008000?style=for-the-badge)]()
+[![Documentation](https://img.shields.io/badge/Technical_Documentation-555555?style=for-the-badge)]()
 
-[![French](https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=france&logoColor=white)]()  
-[![English](https://img.shields.io/badge/English-B2-0073CF?style=for-the-badge&logo=gb&logoColor=white)]()  
-[![Spanish](https://img.shields.io/badge/Spanish-A2-FCBA03?style=for-the-badge&logo=es&logoColor=white)]()
+---
+
+## Projects
+
+**ELT Data Platform**  
+SQL transformations, dbt models, orchestration with Airflow, BigQuery as data warehouse, Power BI reporting.
+
+**Business Intelligence Dashboard**  
+KPI definition, DAX measures, interactive dashboards for decision-making.
+
+**GitHub Analytics Pipeline**  
+GitHub API ingestion, data modeling in a warehouse, automated reporting with Power BI.
+
+---
+
+## Certifications
+
+[![Databricks](https://img.shields.io/badge/Databricks_Fundamentals-F37020?style=for-the-badge&logo=databricks&logoColor=white)]()
+[![GenAI](https://img.shields.io/badge/GenAI_Fundamentals-000000?style=for-the-badge)]()
+[![dbt](https://img.shields.io/badge/dbt_Fundamentals-FF5733?style=for-the-badge&logo=dbt&logoColor=white)]()
+
+---
+
+## Languages
+
+[![French](https://img.shields.io/badge/French-Native-0055A4?style=for-the-badge&logo=france&logoColor=white)]()
+[![English](https://img.shields.io/badge/English-Professional-0073CF?style=for-the-badge&logo=gb&logoColor=white)]()
+[![Spanish](https://img.shields.io/badge/Spanish-Basic-FCBA03?style=for-the-badge&logo=es&logoColor=white)]()
