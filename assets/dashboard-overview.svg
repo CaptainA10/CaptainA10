@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 1000" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1000 1100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
@@ -22,123 +22,87 @@
     </linearGradient>
   </defs>
 
-  <!-- Background -->
-  <rect width="1200" height="1000" fill="url(#bgGrad)"/>
+  <rect width="1000" height="1100" fill="url(#bgGrad)"/>
 
   <!-- Title -->
-  <text x="600" y="45" font-size="36" font-weight="700" text-anchor="middle" fill="#1a1a1a">
-    NGUETTE FANE Gad • Data Engineering & BI
+  <text x="500" y="50" font-size="32" font-weight="700" text-anchor="middle" fill="#1a1a1a">
+    Skills Overview
   </text>
 
-  <!-- Stats Cards Row 1 -->
-  <!-- Card 1 - Repos -->
-  <rect x="50" y="80" width="260" height="160" rx="14" fill="white" stroke="#667eea" stroke-width="2.5" filter="drop-shadow(0 4px 12px rgba(0,0,0,0.1))"/>
-  <text x="180" y="160" font-size="56" font-weight="700" text-anchor="middle" fill="url(#grad1)">5+</text>
-  <text x="180" y="195" font-size="15" font-weight="600" text-anchor="middle" fill="#666">GitHub Repos</text>
-  <text x="180" y="220" font-size="12" text-anchor="middle" fill="#999">Live Stats</text>
+  <!-- Stats Cards -->
+  <rect x="50" y="80" width="200" height="140" rx="12" fill="white" stroke="#667eea" stroke-width="2"/>
+  <text x="150" y="155" font-size="48" font-weight="700" text-anchor="middle" fill="url(#grad1)">5+</text>
+  <text x="150" y="190" font-size="14" font-weight="600" text-anchor="middle" fill="#666">GitHub Repos</text>
 
-  <!-- Card 2 - Certifications -->
-  <rect x="330" y="80" width="260" height="160" rx="14" fill="white" stroke="#f5576c" stroke-width="2.5" filter="drop-shadow(0 4px 12px rgba(0,0,0,0.1))"/>
-  <text x="460" y="160" font-size="56" font-weight="700" text-anchor="middle" fill="url(#grad2)">3</text>
-  <text x="460" y="195" font-size="15" font-weight="600" text-anchor="middle" fill="#666">Certifications</text>
-  <text x="460" y="220" font-size="12" text-anchor="middle" fill="#999">Verified</text>
+  <rect x="275" y="80" width="200" height="140" rx="12" fill="white" stroke="#f5576c" stroke-width="2"/>
+  <text x="375" y="155" font-size="48" font-weight="700" text-anchor="middle" fill="url(#grad2)">3</text>
+  <text x="375" y="190" font-size="14" font-weight="600" text-anchor="middle" fill="#666">Certifications</text>
 
-  <!-- Card 3 - Stars -->
-  <rect x="610" y="80" width="260" height="160" rx="14" fill="white" stroke="#4facfe" stroke-width="2.5" filter="drop-shadow(0 4px 12px rgba(0,0,0,0.1))"/>
-  <text x="740" y="160" font-size="56" font-weight="700" text-anchor="middle" fill="url(#grad3)">15+</text>
-  <text x="740" y="195" font-size="15" font-weight="600" text-anchor="middle" fill="#666">Tech Skills</text>
-  <text x="740" y="220" font-size="12" text-anchor="middle" fill="#999">Expertise</text>
+  <rect x="500" y="80" width="200" height="140" rx="12" fill="white" stroke="#4facfe" stroke-width="2"/>
+  <text x="600" y="155" font-size="48" font-weight="700" text-anchor="middle" fill="url(#grad3)">15+</text>
+  <text x="600" y="190" font-size="14" font-weight="600" text-anchor="middle" fill="#666">Tech Skills</text>
 
-  <!-- Card 4 - Languages -->
-  <rect x="890" y="80" width="260" height="160" rx="14" fill="white" stroke="#43e97b" stroke-width="2.5" filter="drop-shadow(0 4px 12px rgba(0,0,0,0.1))"/>
-  <text x="1020" y="160" font-size="56" font-weight="700" text-anchor="middle" fill="url(#grad4)">3</text>
-  <text x="1020" y="195" font-size="15" font-weight="600" text-anchor="middle" fill="#666">Languages</text>
-  <text x="1020" y="220" font-size="12" text-anchor="middle" fill="#999">Fluent</text>
+  <rect x="725" y="80" width="225" height="140" rx="12" fill="white" stroke="#43e97b" stroke-width="2"/>
+  <text x="837" y="155" font-size="48" font-weight="700" text-anchor="middle" fill="url(#grad4)">3</text>
+  <text x="837" y="190" font-size="14" font-weight="600" text-anchor="middle" fill="#666">Languages</text>
 
-  <!-- Section Title -->
-  <text x="60" y="305" font-size="18" font-weight="700" fill="#1a1a1a">Core Competencies</text>
+  <!-- Competencies Title -->
+  <text x="50" y="280" font-size="18" font-weight="700" fill="#1a1a1a">Core Competencies</text>
 
-  <!-- Data Engineering Section -->
-  <text x="60" y="350" font-size="13" font-weight="700" fill="#1a1a1a" letter-spacing="0.5">DATA ENGINEERING & PIPELINES</text>
+  <!-- Data Engineering -->
+  <text x="50" y="320" font-size="12" font-weight="700" fill="#1a1a1a">DATA ENGINEERING</text>
 
-  <!-- Skill 1 -->
-  <text x="60" y="380" font-size="13" font-weight="600" fill="#555">SQL & Python</text>
-  <rect x="280" y="372" width="900" height="8" rx="4" fill="#e8e8e8"/>
-  <rect x="280" y="372" width="810" height="8" rx="4" fill="url(#grad1)"/>
-  <text x="1110" y="385" font-size="12" font-weight="600" fill="#667eea">90%</text>
+  <text x="50" y="350" font-size="13" font-weight="500" fill="#555">SQL & Python</text>
+  <rect x="50" y="358" width="900" height="7" rx="3" fill="#e8e8e8"/>
+  <rect x="50" y="358" width="810" height="7" rx="3" fill="url(#grad1)"/>
+  <text x="960" y="366" font-size="11" font-weight="600" fill="#667eea">90%</text>
 
-  <!-- Skill 2 -->
-  <text x="60" y="425" font-size="13" font-weight="600" fill="#555">dbt & Transformations</text>
-  <rect x="280" y="417" width="900" height="8" rx="4" fill="#e8e8e8"/>
-  <rect x="280" y="417" width="792" height="8" rx="4" fill="url(#grad1)"/>
-  <text x="1110" y="430" font-size="12" font-weight="600" fill="#667eea">88%</text>
+  <text x="50" y="395" font-size="13" font-weight="500" fill="#555">dbt & Transformations</text>
+  <rect x="50" y="403" width="900" height="7" rx="3" fill="#e8e8e8"/>
+  <rect x="50" y="403" width="792" height="7" rx="3" fill="url(#grad1)"/>
+  <text x="960" y="411" font-size="11" font-weight="600" fill="#667eea">88%</text>
 
-  <!-- Skill 3 -->
-  <text x="60" y="470" font-size="13" font-weight="600" fill="#555">BigQuery & Cloud</text>
-  <rect x="280" y="462" width="900" height="8" rx="4" fill="#e8e8e8"/>
-  <rect x="280" y="462" width="765" height="8" rx="4" fill="url(#grad1)"/>
-  <text x="1110" y="475" font-size="12" font-weight="600" fill="#667eea">85%</text>
+  <text x="50" y="440" font-size="13" font-weight="500" fill="#555">BigQuery & Cloud</text>
+  <rect x="50" y="448" width="900" height="7" rx="3" fill="#e8e8e8"/>
+  <rect x="50" y="448" width="765" height="7" rx="3" fill="url(#grad1)"/>
+  <text x="960" y="456" font-size="11" font-weight="600" fill="#667eea">85%</text>
 
-  <!-- Skill 4 -->
-  <text x="60" y="515" font-size="13" font-weight="600" fill="#555">Apache Spark & Kafka</text>
-  <rect x="280" y="507" width="900" height="8" rx="4" fill="#e8e8e8"/>
-  <rect x="280" y="507" width="720" height="8" rx="4" fill="url(#grad1)"/>
-  <text x="1110" y="520" font-size="12" font-weight="600" fill="#667eea">80%</text>
+  <text x="50" y="485" font-size="13" font-weight="500" fill="#555">Apache Spark & Kafka</text>
+  <rect x="50" y="493" width="900" height="7" rx="3" fill="#e8e8e8"/>
+  <rect x="50" y="493" width="720" height="7" rx="3" fill="url(#grad1)"/>
+  <text x="960" y="501" font-size="11" font-weight="600" fill="#667eea">80%</text>
 
-  <!-- Business Intelligence Section -->
-  <text x="60" y="580" font-size="13" font-weight="700" fill="#1a1a1a" letter-spacing="0.5">BUSINESS INTELLIGENCE & DEVELOPMENT</text>
+  <!-- Business Intelligence -->
+  <text x="50" y="550" font-size="12" font-weight="700" fill="#1a1a1a">BUSINESS INTELLIGENCE</text>
 
-  <!-- Skill 5 -->
-  <text x="60" y="610" font-size="13" font-weight="600" fill="#555">Power BI & Dashboards</text>
-  <rect x="280" y="602" width="900" height="8" rx="4" fill="#e8e8e8"/>
-  <rect x="280" y="602" width="765" height="8" rx="4" fill="url(#grad2)"/>
-  <text x="1110" y="615" font-size="12" font-weight="600" fill="#f5576c">85%</text>
+  <text x="50" y="580" font-size="13" font-weight="500" fill="#555">Power BI & Dashboards</text>
+  <rect x="50" y="588" width="900" height="7" rx="3" fill="#e8e8e8"/>
+  <rect x="50" y="588" width="765" height="7" rx="3" fill="url(#grad2)"/>
+  <text x="960" y="596" font-size="11" font-weight="600" fill="#f5576c">85%</text>
 
-  <!-- Skill 6 -->
-  <text x="60" y="655" font-size="13" font-weight="600" fill="#555">React & Node.js</text>
-  <rect x="280" y="647" width="900" height="8" rx="4" fill="#e8e8e8"/>
-  <rect x="280" y="647" width="675" height="8" rx="4" fill="url(#grad2)"/>
-  <text x="1110" y="660" font-size="12" font-weight="600" fill="#f5576c">75%</text>
+  <text x="50" y="625" font-size="13" font-weight="500" fill="#555">React & Node.js</text>
+  <rect x="50" y="633" width="900" height="7" rx="3" fill="#e8e8e8"/>
+  <rect x="50" y="633" width="675" height="7" rx="3" fill="url(#grad2)"/>
+  <text x="960" y="641" font-size="11" font-weight="600" fill="#f5576c">75%</text>
 
-  <!-- Featured Projects Section -->
-  <text x="60" y="725" font-size="18" font-weight="700" fill="#1a1a1a">Featured Projects</text>
+  <!-- Featured Projects -->
+  <text x="50" y="700" font-size="18" font-weight="700" fill="#1a1a1a">Featured Projects</text>
 
-  <!-- Project 1 -->
-  <rect x="60" y="750" width="350" height="120" rx="10" fill="white" stroke="#667eea" stroke-width="1.5" opacity="0.95"/>
-  <text x="75" y="775" font-size="13" font-weight="700" fill="#1a1a1a">Green Energy Data Pipeline</text>
-  <text x="75" y="800" font-size="11" fill="#666">Modern Data Stack • BigQuery • dbt</text>
-  <text x="75" y="820" font-size="11" fill="#666">Python | Looker Studio</text>
-  <text x="75" y="840" font-size="10" font-weight="600" fill="#667eea">→ View Live Dashboard</text>
+  <rect x="50" y="720" width="900" height="85" rx="10" fill="white" stroke="#667eea" stroke-width="1.5"/>
+  <text x="70" y="745" font-size="13" font-weight="700" fill="#1a1a1a">Green Energy Data Pipeline</text>
+  <text x="70" y="765" font-size="11" fill="#666">Modern Data Stack • Python | BigQuery | dbt | Looker Studio</text>
+  <text x="70" y="785" font-size="10" font-weight="600" fill="#667eea">View Demo →</text>
 
-  <!-- Project 2 -->
-  <rect x="425" y="750" width="350" height="120" rx="10" fill="white" stroke="#f5576c" stroke-width="1.5" opacity="0.95"/>
-  <text x="440" y="775" font-size="13" font-weight="700" fill="#1a1a1a">Streaming & Batch Platform</text>
-  <text x="440" y="800" font-size="11" fill="#666">Lambda Architecture • Real-time KPIs</text>
-  <text x="440" y="820" font-size="11" fill="#666">Kafka | Airflow | QlikSense</text>
-  <text x="440" y="840" font-size="10" font-weight="600" fill="#f5576c">→ View Live Dashboard</text>
+  <rect x="50" y="825" width="900" height="85" rx="10" fill="white" stroke="#f5576c" stroke-width="1.5"/>
+  <text x="70" y="850" font-size="13" font-weight="700" fill="#1a1a1a">Streaming & Batch Monitoring</text>
+  <text x="70" y="870" font-size="11" fill="#666">Lambda Architecture • Kafka | PySpark | BigQuery | Airflow | dbt | QlikSense</text>
+  <text x="70" y="890" font-size="10" font-weight="600" fill="#f5576c">View Demo →</text>
 
-  <!-- Project 3 -->
-  <rect x="790" y="750" width="360" height="120" rx="10" fill="white" stroke="#4facfe" stroke-width="1.5" opacity="0.95"/>
-  <text x="805" y="775" font-size="13" font-weight="700" fill="#1a1a1a">AI Quiz Generator</text>
-  <text x="805" y="800" font-size="11" fill="#666">Bilingual Edition • Groq LLaMA API</text>
-  <text x="805" y="820" font-size="11" fill="#666">React | Node.js | Express</text>
-  <text x="805" y="840" font-size="10" font-weight="600" fill="#4facfe">→ View Live App</text>
-
-  <!-- Tech Stack Section -->
-  <text x="60" y="920" font-size="18" font-weight="700" fill="#1a1a1a">Tech Stack</text>
-  <text x="60" y="950" font-size="11" font-weight="600" fill="#667eea">Python</text>
-  <text x="150" y="950" font-size="11" font-weight="600" fill="#667eea">SQL</text>
-  <text x="220" y="950" font-size="11" font-weight="600" fill="#667eea">dbt</text>
-  <text x="290" y="950" font-size="11" font-weight="600" fill="#667eea">BigQuery</text>
-  <text x="405" y="950" font-size="11" font-weight="600" fill="#667eea">Airflow</text>
-  <text x="510" y="950" font-size="11" font-weight="600" fill="#667eea">Spark</text>
-  <text x="600" y="950" font-size="11" font-weight="600" fill="#667eea">Kafka</text>
-  <text x="680" y="950" font-size="11" font-weight="600" fill="#667eea">Docker</text>
-  <text x="760" y="950" font-size="11" font-weight="600" fill="#667eea">Power BI</text>
-  <text x="860" y="950" font-size="11" font-weight="600" fill="#667eea">React</text>
-  <text x="950" y="950" font-size="11" font-weight="600" fill="#667eea">PostgreSQL</text>
-  <text x="1100" y="950" font-size="11" font-weight="600" fill="#667eea">+ 4 more</text>
+  <rect x="50" y="930" width="900" height="85" rx="10" fill="white" stroke="#4facfe" stroke-width="1.5"/>
+  <text x="70" y="955" font-size="13" font-weight="700" fill="#1a1a1a">AI Quiz Generator - Bilingual</text>
+  <text x="70" y="975" font-size="11" fill="#666">Groq LLaMA API • React | Node.js | Express | GitHub Pages</text>
+  <text x="70" y="995" font-size="10" font-weight="600" fill="#4facfe">View App →</text>
 
   <!-- Footer -->
-  <text x="600" y="990" font-size="11" text-anchor="middle" fill="#999">Interactive Dashboard • Real-time GitHub Stats • Data Engineering Expertise</text>
+  <text x="500" y="1070" font-size="11" text-anchor="middle" fill="#999">Data Engineering • BI • Cloud • Real-time GitHub Stats</text>
 </svg>
