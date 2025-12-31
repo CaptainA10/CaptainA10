@@ -10,14 +10,6 @@
 
 ---
 
-## Profile
-
-Data Engineering and Business Intelligence student focused on designing reliable, scalable, and analytics-ready data platforms. Strong interest in data pipelines, cloud data warehouses, and business-driven analytics solutions.
-
-**Key areas of interest**: ELT/ETL pipelines and orchestration | Data modeling, transformation, and data quality | Business Intelligence and reporting | Automation, CI/CD, and cloud-native tools
-
----
-
 ## Dashboard Overview
 
 Click below to explore your interactive skills dashboard with real-time GitHub stats:
