@@ -60,7 +60,7 @@ Click below to explore your interactive skills dashboard with real-time GitHub s
 
 [![Databricks Fundamentals](https://img.shields.io/badge/Databricks_Fundamentals-F37020?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/c1490409)
 [![GenAI Fundamentals](https://img.shields.io/badge/GenAI_Fundamentals-000000?style=for-the-badge)](https://credentials.databricks.com/67944028)
-[![dbt Fundamentals](https://img.shields.io/badge/dbt_Fundamentals-FF5733?style=for-the-badge&logo=dbt&logoColor=white)](https://credentials.getdbt.com/167401737)
+[![dbt Fundamentals](https://img.shields.io/badge/dbt_Fundamentals-FF5733?style=for-the-badge&logo=dbt&logoColor=white)](https://credentials.getdbt.com/53c7757d-1a2e-4f63-9100-1a19129d2001)
 ![Google Cloud Innovator](https://img.shields.io/badge/Google_Cloud_Innovator-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
