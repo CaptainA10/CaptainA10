@@ -1,7 +1,6 @@
 # NGUETTE FANE Gad
 
-**Data Engineering | Artificial & Business Intelligence**  
-Angers, France
+**Data Engineering | Artificial & Business Intelligence** Angers, France
 
 **Looking for a 5–6 month internship starting March 2026**
 
@@ -57,42 +56,12 @@ Click below to explore your interactive skills dashboard with real-time GitHub s
 
 ---
 
-## Featured Projects
-
-### Green Energy Data Pipeline
-[![Live Demo](https://img.shields.io/badge/Live-Dashboard-success?style=for-the-badge)](https://lookerstudio.google.com/s/u-64-Hc96RQ)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/CaptainA10/Green_Data_Pipeline)
-
-End-to-end Modern Data Stack with Python ingestion, BigQuery warehouse, dbt transformations, and Looker Studio dashboards.
-
-**Stack**: Python | BigQuery | dbt | Looker Studio
-
----
-
-### Streaming and Batch Monitoring Platform
-[![Live Demo](https://img.shields.io/badge/Live-Dashboard-success?style=for-the-badge)](https://yr9pfbp2oxzezb5.fr.qlikcloud.com/sense/app/05d3b740-87d3-4ba7-9215-2f8479c83132)
-
-Lambda Architecture implementation processing massive event streams with real-time KPIs and historical analysis.
-
-**Stack**: Kafka | PySpark | BigQuery | Airflow | dbt | QlikSense
-
----
-
-### AI Quiz Generator - Bilingual Edition
-[![Live Demo](https://img.shields.io/badge/Live-App-success?style=for-the-badge)](https://captaina10.github.io/quiz-bilingue-app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/CaptainA10/quiz-bilingue-app)
-
-AI-powered quiz generator with Groq's LLaMA 3.3 70B model.
-
-**Stack**: React | Node.js | Express | Groq API
-
----
-
 ## Certifications
 
-![Databricks](https://img.shields.io/badge/Databricks_Fundamentals-F37020?style=for-the-badge&logo=databricks&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI_Fundamentals-000000?style=for-the-badge)
-![dbt](https://img.shields.io/badge/dbt_Fundamentals-FF5733?style=for-the-badge&logo=dbt&logoColor=white)
+[![Databricks Fundamentals](https://img.shields.io/badge/Databricks_Fundamentals-F37020?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/c1490409)
+[![GenAI Fundamentals](https://img.shields.io/badge/GenAI_Fundamentals-000000?style=for-the-badge)](https://credentials.databricks.com/67944028)
+[![dbt Fundamentals](https://img.shields.io/badge/dbt_Fundamentals-FF5733?style=for-the-badge&logo=dbt&logoColor=white)](https://credentials.getdbt.com/167401737)
+![Google Cloud Innovator](https://img.shields.io/badge/Google_Cloud_Innovator-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
