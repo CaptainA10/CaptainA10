@@ -45,20 +45,3 @@ Click below to explore your interactive skills dashboard with real-time GitHub s
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
-
----
-
-## Certifications
-
-![Databricks Fundamentals](https://img.shields.io/badge/Databricks_Fundamentals-F37020?style=for-the-badge&logo=databricks&logoColor=white)
-![GenAI Fundamentals](https://img.shields.io/badge/GenAI_Fundamentals-000000?style=for-the-badge)
-![dbt Fundamentals](https://img.shields.io/badge/dbt_Fundamentals-FF5733?style=for-the-badge&logo=dbt&logoColor=white)
-![Google Cloud Innovator](https://img.shields.io/badge/Google_Cloud_Innovator-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-## Languages
-
-![French](https://img.shields.io/badge/French-Native-0055A4?style=for-the-badge&logo=france&logoColor=white)
-![English](https://img.shields.io/badge/English-Professional-0073CF?style=for-the-badge&logo=gb&logoColor=white)
-![Spanish](https://img.shields.io/badge/Spanish-Basic-FCBA03?style=for-the-badge&logo=es&logoColor=white)
