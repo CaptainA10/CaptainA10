@@ -1,47 +1,88 @@
-# NGUETTE FANE Gad
+<h1 align="center">NGUETTE FANE GAD</h1>
 
-**Data Engineering | Artificial & Business Intelligence** Angers, France
+<h3 align="center">
+Data Engineering | Artificial Intelligence | Business Intelligence  
+ Angers, France
+</h3>
 
-**Looking for a 5–6 month internship starting March 2026**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nguette-fane-gad.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguette-fane-gad)
-[![Interactive Dashboard](https://img.shields.io/badge/Dashboard-Live%20Stats-667eea?style=for-the-badge&logo=github-pages&logoColor=white)](https://captaina10.github.io/dashboard.html)
+<h4 align="center">
+ Looking for a 5–6 month internship starting March 2026
+</h4>
 
 ---
 
-## Dashboard Overview
+<div align="center">
 
-Click below to explore your interactive skills dashboard with real-time GitHub stats:
+<a href="https://nguette-fane-gad.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-[![View Interactive Dashboard](https://img.shields.io/badge/Interactive%20Dashboard-Live%20Stats-667eea?style=for-the-badge&logo=github-pages&logoColor=white)](https://captaina10.github.io/dashboard.html)
+<a href="https://www.linkedin.com/in/nguette-fane-gad">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://captaina10.github.io/dashboard.html">
+  <img src="https://img.shields.io/badge/Dashboard-Live%20Stats-667eea?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## GitHub / Dashboard
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguettefane&theme=black-ice&hide_border=true&stroke=0000&background=000000" />
+</div>
 
 ---
 
 ## Tech Stack
 
-**Data Engineering**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF5733?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Data Engineering
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="60"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="60"/>
+  <img src="https://skillicons.dev/icons?i=git" height="60"/>
+</div>
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-**BI & Business Solutions**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=black)
-![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?style=for-the-badge&logo=qlik&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white)
+### Cloud & Big Data
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=gcp" height="60"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="60"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="60"/>
+  <img src="https://skillicons.dev/icons?i=spark" height="60"/>
+</div>
 
-**Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+---
+
+### BI & Analytics
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi" height="60"/>
+  <img src="https://skillicons.dev/icons?i=tableau" height="60"/>
+  <img src="https://skillicons.dev/icons?i=looker" height="60"/>
+</div>
+
+---
+
+### Development & AI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
+</div>
+
+---
+
+## About Me
+
+- Currently working on **AI, LLMs, NLP & Data Engineering pipelines**
+- Using **Python, SQL, Airflow, Docker, Spark**
+- Open to internships in **Data Engineering / BI / AI**
+- Contact: **nguettefane@example.com**
