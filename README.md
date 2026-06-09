@@ -46,7 +46,7 @@ Looking for a 5–6 month internship starting March 2026
   <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="60" alt="Apache Airflow" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="60" alt="dbt" />
+  <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" height="60" alt="dbt" />
   <img width="12" />
 
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="60" alt="Apache Spark" />
@@ -76,7 +76,7 @@ Looking for a 5–6 month internship starting March 2026
   <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="Google Cloud" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="60" alt="Power BI" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="60" alt="Power BI" />
   <img width="12" />
 
   <img src="https://cdn.simpleicons.org/qlik/009845" height="60" alt="Qlik Sense" />
@@ -85,7 +85,7 @@ Looking for a 5–6 month internship starting March 2026
   <img src="https://cdn.simpleicons.org/googleanalytics/E37400" height="60" alt="Looker Studio" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/microsoftpowerapps/742774" height="60" alt="Power Apps" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerapps/microsoft_powerapps-icon.svg" height="60" alt="Power Apps" />
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
@@ -106,17 +106,21 @@ Looking for a 5–6 month internship starting March 2026
 
 ---
 
+## About Me
+
 * Currently working on **Data Engineering, Artificial Intelligence and Business Intelligence projects**
-* Using **Python, SQL, Airflow, Spark, Docker and Cloud technologies**
+* Using **Python, SQL, Airflow, dbt, Spark, Docker and Cloud technologies**
 * Interested in **Data Platforms, Analytics Engineering, AI Systems and Decision Intelligence**
 * Looking for a **5–6 month internship starting March 2026**
-* Portfolio: **https://nguette-fane-gad.vercel.app**
-* Contact: **[your.email@example.com](mailto:your.email@example.com)**
 
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nguette-fane-gad" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/nguette-fane-gad" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="LinkedIn"
+       height="30"
+       width="40" />
 </a>
 </p>
