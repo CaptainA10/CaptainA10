@@ -10,7 +10,7 @@ Looking for a 5–6 month internship starting March 2026
 </p>
 <div align="center">
 <a href="https://nguette-fane-gad.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/nguette-fane-gad">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
