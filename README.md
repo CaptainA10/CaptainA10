@@ -6,7 +6,7 @@ Data Engineering | Artificial Intelligence | Business Intelligence
 Angers, France
 </p>
 <p align="center">
-Looking for a 5–6 month internship starting March 2026
+Looking for a 5–6 month internship starting September 2026
 </p>
 <div align="center">
 <a href="https://nguette-fane-gad.vercel.app">
