@@ -77,4 +77,3 @@ Looking for a 6 month internship starting September 2026
 * Currently working on **Data Engineering, Artificial Intelligence and Business Intelligence projects**
 * Using **Python, SQL, Airflow, dbt, Spark, Docker and Cloud technologies**
 * Interested in **Data Platforms, Analytics Engineering, AI Systems and Decision Intelligence**
-* Looking for a **6 month internship starting September 2026**
