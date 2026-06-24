@@ -6,7 +6,7 @@ Data Engineering | Artificial Intelligence | Business Intelligence
 Angers, France
 </p>
 <p align="center">
-Looking for a 5–6 month internship starting September 2026
+Looking for a 6 month internship starting September 2026
 </p>
 <div align="center">
 <a href="https://nguette-fane-gad.vercel.app">
@@ -77,4 +77,4 @@ Looking for a 5–6 month internship starting September 2026
 * Currently working on **Data Engineering, Artificial Intelligence and Business Intelligence projects**
 * Using **Python, SQL, Airflow, dbt, Spark, Docker and Cloud technologies**
 * Interested in **Data Platforms, Analytics Engineering, AI Systems and Decision Intelligence**
-* Looking for a **5–6 month internship starting March 2026**
+* Looking for a **6 month internship starting September 2026**
